@@ -1,0 +1,29 @@
+.fontStyle{
+    font-family: cursive;
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+  
+  }
+  .loginDiv{
+      text-align: center;
+      background-color: blanchedalmond;
+      padding: 75px;
+      margin: 75px;
+  }
+  body{
+      background-color: ghostwhite;
+  }
+  .textright{
+      margin-left: 50px;
+  }
+  .textleft{
+      margin-right: 105px;
+  }
+  .loginButton{
+    padding: 10px;
+    background-color: cadetblue;
+    font-weight: 800;
+    font-style: italic;
+    border-radius: 50%;
+  }
