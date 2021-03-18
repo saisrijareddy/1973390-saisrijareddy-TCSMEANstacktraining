@@ -1,0 +1,28 @@
+.displayGrid{
+    display: grid;
+}
+.title{
+    font-size: 25px;
+    color: cadetblue;
+}
+.addBlog{
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+}
+.buttonClass{
+    margin: 20px;
+}
+.imgSize{
+    height: 200px;
+    width: 200px;
+}
+.threeRow{
+    display: flex;
+    margin: 3rem;
+    padding: 2rem;
+}
+.titleName{
+    font-size: 19px;
+    color: yellowgreen;
+}
